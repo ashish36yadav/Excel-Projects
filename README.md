@@ -37,7 +37,9 @@ The analysis is performed using pivot tables and visualizations to summarize and
 #Recommendations:
 
 Marketing Strategies: Implement targeted promotions on low-sales days to boost foot traffic and revenue.
+
 Product Offerings: Increase the variety of popular product types like Barista Espresso and Brewed Chai Tea to meet customer preferences.
+
 Cross-Selling: Create bundled offers combining popular items like Barista Espresso with complementary products to increase average transaction value.
 
 #Conclusion:
