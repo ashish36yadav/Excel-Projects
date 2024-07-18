@@ -1,7 +1,7 @@
 Coffee Shop Sales Analysis Project
 
 #Introduction:
-This project aims to analyze sales data from multiple coffee shop locations to uncover trends and insights that can help inform strategic business decisions. By examining sales patterns, product performance, customer preferences, and seasonal variations, the analysis provides data-driven  actionable recommendations to optimize operations and marketing strategies.
+This project aims to analyze sales data from coffee shop to uncover trends and insights that can help inform strategic business decisions. By examining sales patterns, product performance, customer preferences, and seasonal variations, the analysis provides data-driven  actionable recommendations to optimize operations and marketing strategies.
 
 #Project Overview:
 This project analyzes coffee shop sales data to uncover trends and insights that can inform business decisions. The analysis includes sales trends by day of the week, top-performing product categories, store performance, customer preferences, and seasonal trends.
