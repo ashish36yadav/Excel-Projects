@@ -3,6 +3,10 @@
 ## Introduction:
 This project aims to analyze sales data from coffee shop to uncover trends and insights that can help inform strategic business decisions. By examining sales patterns, product performance, customer preferences, and seasonal variations, the analysis provides data-driven  actionable recommendations to optimize operations and marketing strategies.
 
+## Dashboard Preview:
+![image](https://github.com/user-attachments/assets/7354cdab-bc90-45f6-9d73-915ff22490f2)
+
+
 ## Project Overview:
 This project analyzes coffee shop sales data to uncover trends and insights that can inform business decisions. The analysis includes sales trends by day of the week, top-performing product categories, store performance, customer preferences, and seasonal trends.
 
